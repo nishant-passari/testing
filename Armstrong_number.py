@@ -18,3 +18,4 @@ def Armstrong(Num):              # armstrong function
     return armstrong             # returning the armstrong list
 
 print(Armstrong(Num))            # calling the armstrong function
+print("webhook done successfully")
